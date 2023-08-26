@@ -1,6 +1,10 @@
 <form action="action_page.php">
   <div class="container">
+<<<<<<< HEAD
     <h1>NEW REGISTRATION FORM FOR LEARNING DEVOPS - sai sandeep</h1>
+=======
+    <h1>REGISTRATION FORM FOR LEARNING DEVOPS</h1>
+>>>>>>> a08b962286ed11a06dd2faaab2a8454052af2ea8
     <p>Please fill in this form to create an account.</p>
     <hr>
      
