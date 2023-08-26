@@ -1,7 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-	  <h1> Sai Sandeep welcomes to DEVOPS training</h1>
-	  <p>Please fill in this form to create an account.</p>
+    <p>Please fill in this form to create an account.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
@@ -31,7 +30,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
+   <h1> Thankyou, Happy Learning - SAI SANDEEP </h1>
 
   
 </form>
