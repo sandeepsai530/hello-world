@@ -30,7 +30,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning - SAI SANDEEP </h1>
+   <h1> Thankyou, Happy Learning -KODISHALA SAI SANDEEP </h1>
 
   
 </form>
